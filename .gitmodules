@@ -31,3 +31,6 @@
 [submodule "webrat"]
 	path = webrat
 	url = git://github.com/brynary/webrat.git
+[submodule "tanga"]
+	path = tanga
+	url = git@github.com:joevandyk/tanga.git
