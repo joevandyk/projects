@@ -19,3 +19,6 @@
 [submodule "osg"]
 	path = osg
 	url = git@github.com:joevandyk/osg.git
+[submodule "voxy"]
+	path = voxy
+	url = git@github.com:jbarnette/voxy.git
