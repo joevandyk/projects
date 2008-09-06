@@ -22,3 +22,6 @@
 [submodule "voxy"]
 	path = voxy
 	url = git@github.com:jbarnette/voxy.git
+[submodule "rails"]
+	path = rails
+	url = git://github.com/rails/rails.git
