@@ -13,3 +13,6 @@
 [submodule "monkeycharger"]
 	path = monkeycharger
 	url = git@github.com:joevandyk/monkeycharger.git
+[submodule "bizbuzz"]
+	path = bizbuzz
+	url = git@git.fixieconsulting.com:bizbuzz.git
