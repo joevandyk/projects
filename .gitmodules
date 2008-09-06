@@ -16,3 +16,6 @@
 [submodule "bizbuzz"]
 	path = bizbuzz
 	url = git@git.fixieconsulting.com:bizbuzz.git
+[submodule "osg"]
+	path = osg
+	url = git@github.com:joevandyk/osg.git
