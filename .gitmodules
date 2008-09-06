@@ -10,3 +10,6 @@
 [submodule "dotfiles"]
 	path = dotfiles
 	url = git@github.com:joevandyk/dotfiles.git
+[submodule "monkeycharger"]
+	path = monkeycharger
+	url = git@github.com:joevandyk/monkeycharger.git
