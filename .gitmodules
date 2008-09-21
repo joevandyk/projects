@@ -1,3 +1,6 @@
+[submodule "groupy"]
+	path = groupy
+	url = git@github.com:joevandyk/groupy.git
 [submodule "psrc"]
 	path = psrc
 	url = git@github.com:joevandyk/psrc.git
