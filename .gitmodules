@@ -4,3 +4,6 @@
 [submodule "daily-caption"]
 	path = daily-caption
 	url = git@github.com:joevandyk/daily-caption.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = git@github.com:joevandyk/dotfiles.git
