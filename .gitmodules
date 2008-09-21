@@ -1,0 +1,6 @@
+[submodule "psrc"]
+	path = psrc
+	url = git@github.com:joevandyk/psrc.git
+[submodule "daily-caption"]
+	path = daily-caption
+	url = git@github.com:joevandyk/daily-caption.git
