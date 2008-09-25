@@ -40,3 +40,6 @@
 [submodule "gitosis-admin"]
 	path = gitosis-admin
 	url = git@git.fixieconsulting.com:gitosis-admin.git
+[submodule "evri-api"]
+	path = evri-api
+	url = git@github.com:joevandyk/evri-api.git
