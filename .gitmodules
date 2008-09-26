@@ -34,3 +34,6 @@
 [submodule "tanga"]
 	path = tanga
 	url = git@github.com:joevandyk/tanga.git
+[submodule "joes_blog"]
+	path = joes_blog
+	url = git@git.fixieconsulting.com:joes_blog.git
