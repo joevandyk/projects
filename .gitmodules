@@ -37,3 +37,6 @@
 [submodule "joes_blog"]
 	path = joes_blog
 	url = git@git.fixieconsulting.com:joes_blog.git
+[submodule "gitosis-admin"]
+	path = gitosis-admin
+	url = git@git.fixieconsulting.com:gitosis-admin.git
