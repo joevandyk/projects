@@ -43,3 +43,6 @@
 [submodule "evri-api"]
 	path = evri-api
 	url = git@github.com:joevandyk/evri-api.git
+[submodule "fixieconsulting.com"]
+	path = fixieconsulting.com
+	url = git@github.com:jordanisip/fixieconsulting.com.git
