@@ -46,3 +46,6 @@
 [submodule "fixieconsulting.com"]
 	path = fixieconsulting.com
 	url = git@github.com:jordanisip/fixieconsulting.com.git
+[submodule "shack"]
+	path = shack
+	url = git@github.com:joevandyk/latest-chatty-api.git
